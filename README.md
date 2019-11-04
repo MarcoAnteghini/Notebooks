@@ -1,3 +1,3 @@
 # Notebooks
 Jupyter notebooks for various purposes.
-1. Create Sequence Logos from Multiple Sequence Alignment (MSA)
+1. Seq_Logo: Create Sequence Logos from Multiple Sequence Alignment (MSA)
